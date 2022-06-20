@@ -5,9 +5,9 @@
 Hi, there! Thanks for checking out the P&G Platform Apprenticeship documentation! This 6-month apprenticeship is an opportunity to work with over a dozen engineers on the Lightyear team, building and maintaining a complex, world-scale, cloud-based platform for IoT data. You'll work closely with senior engineers and mentors and will be learning through lectures, independent study, and paired programming. We aim to arm you with the tools and hands-on experience to be an effective cloud engineer on the Lightyear team.
 
 ## :star: Highlights
-Target start date: 9/5
-Apprenticeship duration: 6 months
-Average apprentice salary: 50K
+- Target start date: 9/5
+- Apprenticeship duration: 6 months
+- Average apprentice salary: 50K
 
 ## :computer: Technologies
 - GCP (Google Cloud Platform)
