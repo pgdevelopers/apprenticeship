@@ -12,15 +12,15 @@ Hi, there! Thanks for checking out the P&G Platform Apprenticeship documentation
 - A note on compensation: All apprentices who proceed past the apprenticeship will receive a new, competitive full-time offer that includes benefits.
 
 ## :computer: Technologies
-- GCP (Google Cloud Platform)
-- AWS (Amazon Web Services)
-- Golang
-- Terraform
-- GraphQL
-- SQL
-- Javascript
-- IoT
-- Docker
+- [GCP (Google Cloud Platform)](https://cloud.google.com/)
+- [AWS (Amazon Web Services)](https://aws.amazon.com/)
+- [Go](https://go.dev/)
+- [Terraform](https://www.terraform.io/)
+- [GraphQL](https://graphql.org/)
+- [SQL](https://www.postgresql.org/)
+- [Javascript](https://www.javascript.com/)
+- [IoT](https://en.wikipedia.org/wiki/Internet_of_things)
+- [Docker](https://www.docker.com/)
 
 ## :bulb: Why We Do Apprenticeships
 Lots of companies are focused on hiring experienced developers; in contrast, we see apprenticeships as good investments that can help us bolster our internal engineering presence at P&G. Early-career developers like you are untapped resources that can thrive in the type of environment we foster on our team. We love paired programming and do it daily. We detest gatekeeping and believe it's important to share knowledge across the team and P&G at large. Lastly, we strive for diversity in our team's makeup, and we see the apprenticeship as a means to create opportunities for people from a multitude of backgrounds and skillsets. 
