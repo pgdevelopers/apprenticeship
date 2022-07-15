@@ -30,3 +30,20 @@ We're looking for early-career developers seeking hands-on experience working in
 
 ## :white_check_mark: Hiring process
 Our initial interviews will take place in the last week of July 2022. Candidates moving forward will be invited to a technical interview where they will walk through a coding project with members of the Lightyear team. Other P&G hiring processes may include: a behavioral assessment, a logic assessment, and one or more PEAK interviews with people outside the Lightyear team.
+
+## :books: Relevant Resources
+Listed below are resources that will help prepare you for a cloud engineer role on the team.
+
+**Hands-on**
+- Learn GOlang in 7 hours FreeCodeCamp: [https://www.freecodecamp.org/news/go-golang-course/](https://www.freecodecamp.org/news/go-golang-course/)
+- Terraform: [https://registry.terraform.io/](https://registry.terraform.io/)
+- Gophercises: [https://gophercises.com/](https://gophercises.com/)
+- Go exercises on Exercism: [https://exercism.org/](https://exercism.org/)
+- The Cloud Resume Challenge: [https://cloudresumechallenge.dev/docs/the-challenge/googlecloud/](https://cloudresumechallenge.dev/docs/the-challenge/googlecloud/)
+
+**Reading**
+- The little Go book by Karl Seguin [https://github.com/karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)
+- Terraform Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman
+- The Go Programming Language by Alan A. A. Donovan and Brian Kernighan
+- The Cloud Resmue Challenge Guidebook by Forrest Brazeal
+
