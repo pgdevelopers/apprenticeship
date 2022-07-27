@@ -6,7 +6,7 @@ Hi, there! Thanks for checking out the P&G Platform Apprenticeship documentation
 
 ## :star: Highlights
 - Target start date: 9/6
-- Apprenticeship duration: 6 months
+- Apprenticeship duration: 4 months
 - Average apprentice salary: 50K annual
 - Benefits: Not provided
 - A note on compensation: All apprentices who proceed past the apprenticeship will receive a new, competitive full-time offer that includes benefits.
