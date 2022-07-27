@@ -36,6 +36,7 @@ If you worked on a side project you want us to consider in our deliberation, mak
 Listed below are resources that will help prepare you for a cloud engineer role on the team.
 
 **Hands-on**
+- GOlang tour: [https://go.dev/tour/welcome/1](https://go.dev/tour/welcome/1)
 - Learn GOlang in 7 hours FreeCodeCamp: [https://www.freecodecamp.org/news/go-golang-course/](https://www.freecodecamp.org/news/go-golang-course/)
 - Terraform: [https://registry.terraform.io/](https://registry.terraform.io/)
 - Gophercises: [https://gophercises.com/](https://gophercises.com/)
