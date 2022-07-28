@@ -47,5 +47,5 @@ Listed below are resources that will help prepare you for a cloud engineer role 
 - The little Go book by Karl Seguin [https://github.com/karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)
 - Terraform Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman
 - The Go Programming Language by Alan A. A. Donovan and Brian Kernighan
-- The Cloud Resmue Challenge Guidebook by Forrest Brazeal
+- The Cloud Resume Challenge Guidebook by Forrest Brazeal
 
